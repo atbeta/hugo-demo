@@ -24,9 +24,6 @@ company_url = "https://www.sdu.edu.cn/"
 location = "Jinan,China"
 date_start = "2022-01-01"
 date_end = ""
-description = """
-
-"""
 
 [[experience]]
 title = "Assistant Professor"
@@ -35,9 +32,6 @@ company_url = "https://www.jnu.edu.cn/"
 location = "Guangzhou,China"
 date_start = "2016-07-01"
 date_end = "2021-07-01"
-description = """
-
-"""
 
 [[experience]]
 title = "PhD, Economics"
@@ -46,9 +40,6 @@ title = "PhD, Economics"
   location = "Montreal,Canada"
   date_start = "2011-07-01"
   date_end = "2016-07-01"
-  description = """
-  
-  """
 
 [[experience]]
   title = "M.A, Economics"
@@ -57,9 +48,6 @@ title = "PhD, Economics"
   location = "Toronto,Canada"
   date_start = "2010-07-01"
   date_end = "2011-07-01"
-# description = """Taught electronic engineering and researched semiconductor physics."""
-
-"""
 
 [[experience]]
 title = "B.A, Economics"
@@ -68,6 +56,5 @@ company_url = ""
 location = "Guangzhou, China"
 date_start = "2006-07-01"
 date_end = "2010-07-01"
-# description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
