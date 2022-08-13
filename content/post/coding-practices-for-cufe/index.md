@@ -1,15 +1,15 @@
 ---
-title: 'Talk on coding practice for IESR, Jinan'
+title: 'Talk on coding practices for Central University of Finance and Economics'
 subtitle: ''
-summary: Talk on coding practice for IESR, Jinan.
+summary: Talk on coding practices for Central University of Finance and Economics.
 authors:
 - admin
 tags:
-- Academic
+- Academic 
 categories:
 - Teaching
-date: "2019-05-17T00:00:00Z"
-lastmod: "2019-05-17T00:00:00Z"
+date: "2019-12-07T00:00:00Z"
+lastmod: "2019-12-07T00:00:00Z"
 featured: false
 draft: false
 

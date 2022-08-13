@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Research"
 subtitle = ""
 
 # Date format
@@ -21,31 +21,41 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  title = "Noncognitive skills and gender gap in test scores"
+  url = "https://doi.org/10.1080/00036846.2021.1883189"
+  certificate_url = "https://doi.org/10.1080/00036846.2021.1883189"
+  date_start = "2021-10-01"
   date_end = ""
-  description = ""
+  description = "Applied Economics, 53.29 (2021): 3423-3437"
 
 [[item]]
   organization = "edX"
   organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  title = "Media Attention and Choice of Major: Evidence from Violence Against Doctors in China"
+  url = "https://doi.org/10.1016/j.jebo.2019.11.012"
+  certificate_url = "https://doi.org/10.1016/j.jebo.2019.11.012"
+  date_start = "2020-03-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "with Shiyu Bo, Joy Chen, Sen Zhou, Journal of Economic and Behavior Organization, 170(2020):1-19, lead article"
   
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  title = "Admission Mechanisms and Mismatches between Colleges and Students: Evidence from Large Field Data in China"
+  url = "https://doi.org/10.1016/j.econedurev.2018.12.004"
+  certificate_url = "https://doi.org/10.1016/j.econedurev.2018.12.004"
+  date_start = "2019-07-01"
+  date_end = ""
+  description = "with Shiyu Bo, Jing Liu, Ji-liang Shiu, Sen Zhou, Economics of Education Review, 68 (2019): 27-37."
+
+[[item]]
+organization = "DataCamp"
+organization_url = "https://www.datacamp.com"
+title = "Admission Mechanisms and Mismatches between Colleges and Students: Evidence from Large Field Data in China"
+url = "https://doi.org/10.1002/hec.3796"
+certificate_url = "https://doi.org/10.1002/hec.3796"
+date_start = "2018-07-01"
+date_end = ""
+description = "with Douglas Barthold, Health Economics, 27.11 (2018): 1717-1737."
 
 +++

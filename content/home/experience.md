@@ -33,28 +33,4 @@ location = "Guangzhou,China"
 date_start = "2016-07-01"
 date_end = "2021-07-01"
 
-[[experience]]
-title = "PhD, Economics"
-  company = "McGill University"
-  company_url = ""
-  location = "Montreal,Canada"
-  date_start = "2011-07-01"
-  date_end = "2016-07-01"
-
-[[experience]]
-  title = "M.A, Economics"
-  company = "University of Toronto"
-  company_url = ""
-  location = "Toronto,Canada"
-  date_start = "2010-07-01"
-  date_end = "2011-07-01"
-
-[[experience]]
-title = "B.A, Economics"
-company = "Sun Yat-sen University"
-company_url = ""
-location = "Guangzhou, China"
-date_start = "2006-07-01"
-date_end = "2010-07-01"
-
 +++
