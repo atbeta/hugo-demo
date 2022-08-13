@@ -18,27 +18,56 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+title = "Assistant Professor"
+company = "Department of Economics,Shandong University"
+company_url = "https://www.sdu.edu.cn/"
+location = "Jinan,China"
+date_start = "2022-01-01"
+date_end = ""
+description = """
+
+"""
+
+[[experience]]
+title = "Assistant Professor"
+company = "Institute of Economic and Social Research, Jinan University"
+company_url = "https://www.jnu.edu.cn/"
+location = "Guangzhou,China"
+date_start = "2016-07-01"
+date_end = "2021-07-01"
+description = """
+
+"""
+
+[[experience]]
+title = "PhD, Economics"
+  company = "McGill University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Montreal,Canada"
+  date_start = "2011-07-01"
+  date_end = "2016-07-01"
   description = """
-  Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "M.A, Economics"
+  company = "University of Toronto"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Toronto,Canada"
+  date_start = "2010-07-01"
+  date_end = "2011-07-01"
+# description = """Taught electronic engineering and researched semiconductor physics."""
+
+"""
+
+[[experience]]
+title = "B.A, Economics"
+company = "Sun Yat-sen University"
+company_url = ""
+location = "Guangzhou, China"
+date_start = "2006-07-01"
+date_end = "2010-07-01"
+# description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
