@@ -7688,7 +7688,22 @@ div.alert a {
     color: #2962ff !important; }
 
 .dark .navbar {
+  background: #282a36;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(255, 255, 255, 0.11); }
+  .dark .navbar .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 0.85); }
+
+.dark .navbar-brand {
+  color: #fff; }
+
+.dark .navbar-toggler {
+  color: #fff; }
+
+.dark #navbar-main .main-menu-item ul li .nav-link {
+  color: #fff; }
+
+.dark .navbar-collapse {
+  background-color: #282a36; }
 
 .navbar-toggler {
   border: 0 !important;
@@ -7838,7 +7853,8 @@ ul.nav-icons li.nav-item a.nav-link {
   text-decoration: none; }
 
 .card .card-text {
-  padding: 0.75rem 1rem 0.75rem; }
+  padding: 0.75rem 1rem 0.75rem 0;
+  font-weight: bold; }
 
 .card .card-text p {
   color: rgba(0, 0, 0, 0.54);

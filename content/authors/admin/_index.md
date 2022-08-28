@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Economics
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Shandong University
-  url: "https://www.sdu.edu.cn/"
+- name: Department of Economics, Shandong University.
+  url: "https://www.econ.sdu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research areas are education and health economics, with a focus on how individuals deviate from rationality when making decisions in education and healthcare contexts.
@@ -46,7 +46,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=w6dVGCAAAAAJ&hl=zh-CN
 - icon: github
   icon_pack: fab
   link: https://github.com/kprinceing
@@ -66,6 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Yan Song is an associate professor in Department of Economics, Shandong University. His research areas are education and health economics, with a focus on how individuals deviate from rationality when making decisions in education and healthcare contexts.
