@@ -32,3 +32,6 @@ projects: []
 ---
 ## Slides
 [Slides](http://cloud.pbeta.me/s/6DygHBjdyFrb7LB)
+{{% alert note %}}
+Click on the **Slides** button above to view the full slides directly.
+{{% /alert %}}
